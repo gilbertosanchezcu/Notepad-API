@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# REST API for Pathfinding Visualizer project
 
-Things you may want to cover:
+The Pathfinding Visualizer project has a feature called Notepad where users are able to create posts by entering a username and a message. The posts are visible in the "Notepad" section of the website and are also stored in a database. The database was created using Postgresql and is running locally. The REST API supports GET and POST requests.\
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Pathfinding Visualizer project https://github.com/gilbertosanchezcu/Pathfinding-Visualizer
